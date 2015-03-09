@@ -1,3 +1,3 @@
 #!/bin/bash
 cp ~/.vimrc ~/Profiles/vimrc
-rsync -av ~/.vim ~/Profiles/vim
+rsync -av ~/.vim ~/Profiles
