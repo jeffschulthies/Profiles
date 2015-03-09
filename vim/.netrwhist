@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/des1122334455/csci/mvim'
+let g:netrw_dirhist_2='/Users/des1122334455/csci'
+let g:netrw_dirhist_3='/Users/des1122334455'
+let g:netrw_dirhist_4='/Users/des1122334455/.cache'
+let g:netrw_dirhist_5='/Users/des1122334455/csci/designs/jan15/registrar'
